@@ -2,7 +2,8 @@ package baseclass;
 
 import java.io.IOException;
 import java.time.Duration;
-
+import java.io.IOException;
+import java.time.Duration;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterMethod;
